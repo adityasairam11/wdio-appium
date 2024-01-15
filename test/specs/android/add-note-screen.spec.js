@@ -1,4 +1,4 @@
-const { expect } = require('@wdio/globals')
+// const { expect } = require('@wdio/globals')
 const AddNoteScreen = require("../../screenobjects/android/add-note.screen");
 
 describe('Add Notes', () => {
